@@ -1,0 +1,4 @@
+# ninja log v5
+0	125	1712140510906513430	CMakeFiles/UnitConverter.dir/main.c.o	5d60bb236c2495c2
+1	125	1712140510906513347	CMakeFiles/UnitConverter.dir/convert.c.o	6784fba3dfad41ed
+125	1831	1712140512612518460	UnitConverter	c93d1988cb436f78
